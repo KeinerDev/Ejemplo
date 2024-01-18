@@ -39,3 +39,14 @@ main p {
     margin-bottom: 8px;
     font-size: 2rem;
 }
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background-color: rgb(143, 83, 199);
+}
+footer p {
+    font-size: 3rem;
+    font-weight: bold;
+}
